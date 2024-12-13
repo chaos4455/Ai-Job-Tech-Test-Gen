@@ -52,31 +52,24 @@ Este projeto é uma Prova de Conceito (POC) para um gerador de testes de conheci
 *   **Configurações:** Defina parâmetros para a geração de testes, como quantidade de questões, dificuldade e tema.
 *   **Visão de Portfólio:** Uma amostra de minhas capacidades em desenvolvimento de interface e integração com APIs de IA.
 
----
+![chrome_LFlR7j9klo](https://github.com/user-attachments/assets/3b854a2e-3735-4ec1-a194-ca58a7ed12dd)
+![chrome_1wmwAQFitR](https://github.com/user-attachments/assets/e6e1199f-27f9-42c1-b5d9-deaf7f624cab)
+![chrome_EifYGkoFd4](https://github.com/user-attachments/assets/7fb0c62f-1a56-4f40-befe-75d47cf6304f)
+![chrome_2bJ1VBiiIq](https://github.com/user-attachments/assets/50e2cf59-8696-4b2a-afbf-2dc4bf891990)
+![chrome_xDfbQsls1B](https://github.com/user-attachments/assets/c6618c25-d57a-4cf0-bc3d-059995e4e631)
+![chrome_BBeEPxhho3](https://github.com/user-attachments/assets/88f32b1a-38d7-4c92-b7f6-71a27ad2e094)
+![chrome_JrklyKY14R](https://github.com/user-attachments/assets/af3fb376-8021-415e-8000-09ed83c8c7a1)
+![chrome_d3PPUeQfHT](https://github.com/user-attachments/assets/09948f91-b19b-460c-b97f-93d1dc036aba)
+![chrome_1i6RyC0MMw](https://github.com/user-attachments/assets/633013fe-4081-4293-99d1-601cd07d95e2)
+![chrome_a1nOr6sveX](https://github.com/user-attachments/assets/fee855b3-a2b7-4a32-b708-594033a27d10)
+![chrome_jR7ycYegqe](https://github.com/user-attachments/assets/4f9a5986-0109-4138-8971-04823876c036)
+![chrome_11I7wlbUQY](https://github.com/user-attachments/assets/3a6a165d-2a10-4797-b488-c11da3d5b029)
+![chrome_KymBFclmOn](https://github.com/user-attachments/assets/e66654b9-9842-4aea-b6be-49509765d111)
+![chrome_w07KPvc77b](https://github.com/user-attachments/assets/7b8b3fd9-24ac-4313-ba83-2ead722d76c8)
+![chrome_4XcNwq61EU](https://github.com/user-attachments/assets/64bf0a20-15c5-4857-b155-d25452c2e6f6)
+![chrome_crXLnhbCpG](https://github.com/user-attachments/assets/716a50bf-fd40-4280-b7d0-48abe71816bd)
+![chrome_xfmffIL2qG](https://github.com/user-attachments/assets/dd97cec8-31a6-4ada-97f9-b3d351b351e0)
 
-## ⚙️ Como Executar o Projeto
-
-1.  **Clone o Repositório:**
-
-    ```bash
-    git clone https://github.com/chaos4455/Ai-Job-Tech-Test-Gen.git
-    ```
-2.  **Navegue até o diretório:**
-
-    ```bash
-    cd Ai-Job-Tech-Test-Gen
-    ```
-3.  **Instale as dependências:**
-
-    ```bash
-    npm install
-    ```
-4.  **Inicie a aplicação:**
-
-    ```bash
-    npm run dev
-    ```
-5.  **Abra o navegador:** Acesse a aplicação em `http://localhost:5173`.
 
 ---
 
