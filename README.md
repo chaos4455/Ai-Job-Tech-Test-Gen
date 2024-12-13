@@ -29,13 +29,6 @@ Arquiteto de Soluções de IA | Full Stack Python 🐍 | DevOps | IAops | LLMops
 
 Este projeto é uma Prova de Conceito (POC) para um gerador de testes de conhecimento, utilizando a API do Google Gemini e uma interface web em React. O objetivo é demonstrar minhas habilidades em desenvolvimento front-end, integração com APIs e o uso de inteligência artificial para geração de conteúdo.
 
-**🔧 Tecnologias Principais:**
-
-*   <img src="https://raw.githubusercontent.com/github/explore/8001a436ef1b64837e594b59d401c832d94f2b69/topics/react/react.png" width="20" height="20" alt="React Icon"> **React:** Framework JavaScript para construção da interface do usuário.
-*   <img src="https://vitejs.dev/logo.svg" width="20" height="20" alt="Vite Icon"> **Vite:** Ferramenta de construção rápida para projetos front-end.
-*   <img src="https://raw.githubusercontent.com/google/generative-ai-docs/main/site/en/images/gemini_icon.png" width="20" height="20" alt="Gemini Icon"> **Google Gemini API:**  API de IA generativa para criação de testes personalizados.
-*   🐍 **Python (com FastAPI):** Para o backend e integração da API Gemini (não incluído neste repositório, foco no frontend).
-
 **🎯 Objetivos:**
 
 *   Criar uma interface amigável para gerar testes de conhecimento.
