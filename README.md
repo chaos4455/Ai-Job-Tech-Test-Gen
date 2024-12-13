@@ -1,4 +1,15 @@
-# <img src="https://raw.githubusercontent.com/github/explore/8001a436ef1b64837e594b59d401c832d94f2b69/topics/react/react.png" width="30" height="30" alt="React Icon"> Ai-Job-Tech-Test-Gen <img src="https://raw.githubusercontent.com/google/generative-ai-docs/main/site/en/images/gemini_icon.png" width="30" height="30" alt="Gemini Icon">
+<!-- Shields de Tecnologias e Ferramentas -->
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFB400)](https://vitejs.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Google Gemini](https://img.shields.io/badge/Google_Gemini-03A9F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 [![GitHub Stars](https://img.shields.io/github/stars/chaos4455/Ai-Job-Tech-Test-Gen?style=social)](https://github.com/chaos4455/Ai-Job-Tech-Test-Gen/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/chaos4455/Ai-Job-Tech-Test-Gen?style=social)](https://github.com/chaos4455/Ai-Job-Tech-Test-Gen/network/members)
